@@ -1,3 +1,5 @@
+#script to analyse mechanical advantage of linkage
+
 import objects.fourbar as fourbar
 import numpy as np
 from numpy import cos, sin

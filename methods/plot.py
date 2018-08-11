@@ -1,3 +1,5 @@
+#draws linkage
+
 import matplotlib.pyplot as plt
 
 linkage = 0

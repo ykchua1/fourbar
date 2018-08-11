@@ -1,3 +1,5 @@
+#script to animate linkage and saves as mp4 file
+
 import objects.fourbar
 from methods import plot, animate, animate2
 
